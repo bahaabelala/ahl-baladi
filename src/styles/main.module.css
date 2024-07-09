@@ -1,0 +1,16 @@
+.main {
+  flex-grow: 1;
+
+  display: flex;
+}
+
+.questionsCont {
+  flex-grow: 1;
+}
+
+.menuSide,
+.statSide {
+  background-color: var(--primary-color);
+
+  flex-basis: 15vw;
+}
